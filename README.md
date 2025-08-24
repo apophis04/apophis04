@@ -42,18 +42,18 @@
   <a href="https://www.framer.com/motion/" target="_blank" rel="noreferrer"><img title="Framer Motion" src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" height="40"/></a>
   <a href="https://jquery.com/" target="_blank" rel="noreferrer"><img title="jQuery" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40"/></a>
   <a href="https://threejs.org/" target="_blank" rel="noreferrer"><img title="Three.js" src="https://skillicons.dev/icons?i=threejs" height="40"/></a>
-  <a href="https://animejs.com/" target="_blank" rel="noreferrer"><img title="Anime.js" src="https://raw.githubusercontent.com/juliangarnier/anime/master/documentation/assets/img/favicon.png" height="40"/></a>
+  <a href="https://animejs.com/" target="_blank" rel="noreferrer"><img title="Anime.js" src="https://animejs.com/assets/images/anime-js-logo-v4.svg" height="40"/></a>
   <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img title="Vite" src="https://skillicons.dev/icons?i=vite" height="40"/></a>
   <a href="https://webpack.js.org/" target="_blank" rel="noreferrer"><img title="Webpack" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original-wordmark.svg" height="40"/></a>
 
   <!-- Backend / APIs -->
   <a href="https://nodejs.org/" target="_blank" rel="noreferrer"><img title="Node.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"/></a>
   <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img title="Express.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40"/></a>
-  <a href="https://nestjs.com/" target="_blank" rel="noreferrer"><img title="NestJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" height="40"/></a>
+  <a href="https://nestjs.com/" target="_blank" rel="noreferrer"><img title="NestJS" src="https://nestjs.com/logo-small-gradient.d792062c.svg" height="40"/></a>
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img title="Django" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40"/></a>
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"><img title="Flask" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" height="40"/></a>
+  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"><img title="Flask" src="https://flask.palletsprojects.com/en/stable/_images/flask-name.svg" height="40"/></a>
   <a href="https://rubyonrails.org/" target="_blank" rel="noreferrer"><img title="Ruby on Rails" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain-wordmark.svg" height="40"/></a>
-  <a href="https://laravel.com/" target="_blank" rel="noreferrer"><img title="Laravel" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" height="40"/></a>
+  <a href="https://laravel.com/" target="_blank" rel="noreferrer"><img title="Laravel" src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" height="40"/></a>
   <a href="https://graphql.org/" target="_blank" rel="noreferrer"><img title="GraphQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="40"/></a>
   <a href="https://nginx.org/" target="_blank" rel="noreferrer"><img title="NGINX" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40"/></a>
 
