@@ -112,5 +112,4 @@
 
 - 🎓 B.Tech Mechanical Engineering @ NSUT  
 - 💻 Freelance Programmer | Exploring *everything* from **Full Stack Dev → Linux Customization → AI/ML → App Dev**  
-- 🎥 Creator at [Kernel Geek](https://youtube.com/@kernelgeek) – Walkthroughs, Debugging & Learning Programming  
 - ⚡ Currently diving into **Three.js, Anime.js & advanced app development**  
