@@ -117,7 +117,7 @@
 ## 📬 Contact Me  
 
 - 📧 Email: [Mail me](mailto:kislaygautam04@gmail.com)  
-- 💼 LinkedIn: [Connect weith me]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/kislay-gautam/))  
+- 💼 LinkedIn: [linkedin.com/in/kislay-gautam/]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/kislay-gautam/))  
 - 🐦 Instagram: [@kislay_004]([https://twitter.com/yourhandle](https://www.instagram.com/kislay_004/))  
 - 💻 GitHub: [github.com/apophis](https://github.com/apophis04)  
 
