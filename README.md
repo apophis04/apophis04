@@ -113,3 +113,11 @@
 - 🎓 B.Tech Mechanical Engineering @ NSUT  
 - 💻 Freelance Programmer | Exploring *everything* from **Full Stack Dev → Linux Customization → AI/ML → App Dev**  
 - ⚡ Currently diving into **Three.js, Anime.js & advanced app development**  
+
+## 📬 Contact Me  
+
+- 📧 Email: [Mail me](mailto:kislaygautam04@gmail.com)  
+- 💼 LinkedIn: [Connect weith me]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/kislay-gautam/))  
+- 🐦 Instagram: [@kislay_004]([https://twitter.com/yourhandle](https://www.instagram.com/kislay_004/))  
+- 💻 GitHub: [github.com/apophis](https://github.com/apophis04)  
+
