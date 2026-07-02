@@ -1,5 +1,23 @@
-# 💫 About Me:
-I’m a mechanically inclined problem-solver with a strong foundation in analytical thinking and hands-on technical work. Alongside my engineering background, I work as a freelance programmer, building efficient, practical solutions for real-world problems.<br><br>I enjoy bridging theory and implementation — whether that means designing systems, optimizing processes, or writing clean, maintainable code. My interests lie in automation, simulation, computational problem-solving, and applying engineering principles to software-driven solutions.<br><br>I’m continuously learning, experimenting, and refining my skills — not just to complete tasks, but to understand systems deeply and improve how they perform.<br><br>I value precision, structured thinking, and delivering work that’s both technically sound and practically useful.
+# 💫 About Me
+
+🚀 Engineer by education, developer by passion, and problem-solver by nature.
+
+With over a decade of fascination with technology, programming, and building things, I've developed a multidisciplinary skill set that bridges engineering principles with modern software development. As a Mechanical Engineering student and freelance programmer, I enjoy turning complex ideas into practical, scalable, and efficient solutions.
+
+My interests span across:
+
+* ⚙️ Software Engineering & System Design
+* 🤖 Automation and Computational Problem Solving
+* 🧠 Algorithms, Optimization & Analytical Thinking
+* 🌐 Full-Stack Development & Cloud Technologies
+* 📊 Simulation, Data-Driven Solutions & Emerging Technologies
+
+I believe the best solutions come from understanding systems deeply—whether it's a mechanical process, a software architecture, or a real-world business problem. I'm constantly learning, experimenting with new technologies, and refining my craft to build solutions that are not only technically sound but also genuinely useful.
+
+I enjoy working at the intersection of engineering and software, where structured thinking, creativity, and continuous learning come together to solve meaningful problems.
+
+> *"Build with curiosity, engineer with precision, and never stop learning."*
+
 
 
 ## 🌐 Socials:
